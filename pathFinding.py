@@ -1,4 +1,8 @@
-import math
+"""
+    PATH FINING
+
+    Agradecimento especial ao Tim pela ajuda no codigo
+"""
 from queue import PriorityQueue
 
 import pygame
